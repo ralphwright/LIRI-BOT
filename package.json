@@ -1,0 +1,27 @@
+{
+  "name": "ralph",
+  "version": "1.0.0",
+  "description": "liri bot hw",
+  "main": "index.js",
+  "dependencies": {
+    "geocoder": "^0.2.3",
+    "request": "^2.85.0",
+    "twit": "^2.2.9",
+    "weather.js": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ralphwright"
+  },
+  "keywords": [
+    "twitter",
+    "spotify",
+    "omdb"
+  ],
+  "author": "Ralph Wright Jr.",
+  "license": "ISC"
+}
